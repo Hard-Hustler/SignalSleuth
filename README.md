@@ -7,7 +7,7 @@
 ---
 | **Dashboard** | **Market Trends** | **Prediction Insights** |
 |--------------|----------------|----------------|
-| ![Dashboard](<Screenshot 2025-01-12 at 14.31.17.png>) | ![alt text](<Screenshot 2025-01-12 at 14.31.48.png>)  | ![alt text](<Screenshot 2025-01-12 at 14.31.27.png>) |
+| ![Dashboard](<signal-sleuth-master/Screenshot 2025-01-12 at 14.31.17.png>) | ![alt text](<signal-sleuth-master/Screenshot 2025-01-12 at 14.31.48.png>)  | ![alt text](<signal-sleuth-master/Screenshot 2025-01-12 at 14.31.27.png>) |
 
 ---
 
@@ -58,7 +58,7 @@ In fast-moving markets, sudden price shifts or unusual patterns often precede im
 
 ## 🖼 Demo Preview
 ---
- ![](<Screenshot 2025-01-12 at 14.31.17.png>)
+ ![](<signal-sleuth-master/Screenshot 2025-01-12 at 14.31.17.png>)
 
 ---
 ## 📈 How It Works
