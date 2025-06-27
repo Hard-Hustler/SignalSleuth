@@ -57,7 +57,6 @@ In fast-moving markets, sudden price shifts or unusual patterns often precede im
 ---
 
 ## 🖼 Demo Preview
----
  ![](<signal-sleuth-master/Screenshot 2025-01-12 at 14.31.17.png>)
 
 ---
@@ -66,6 +65,8 @@ In fast-moving markets, sudden price shifts or unusual patterns often precede im
 - The data is preprocessed and fed into a trained anomaly detection model
 - Detected anomalies are returned to the frontend and displayed graphically
 - Frontend dashboard shows spikes, dips, and abnormal patterns
+
+---
 ## 🔮 Future Enhancements (Planned)
 - Add sentiment analysis from news or Reddit
 
@@ -76,6 +77,8 @@ In fast-moving markets, sudden price shifts or unusual patterns often precede im
 - Set up CI/CD with GitHub Actions
 
 - Add anomaly explainability using SHAP or LIME
+
+---
 ## 🚀 About Me
 I'm a Master’s student with a strong interest in Software Engineering, FinTech, and Machine Learning. I enjoy building intelligent, data-driven systems and love working at the intersection of code, data, and product thinking.
 
