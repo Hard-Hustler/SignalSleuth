@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🚀 Features
 
 - 📊 Detects real-time **stock price anomalies** using ML models (Isolation Forest)
